@@ -15,4 +15,4 @@ The goal is to recommend optimizations that improve transaction success rates, e
 Deliverables Expected Executive summary, detailed EDA, visualizations with clear interpretations, and prioritized recommendations.
 
 ## VISUALIZATION
-(NOVAPAY DASHBOARD.png)
+![](novapaydashboard.jpg) 
