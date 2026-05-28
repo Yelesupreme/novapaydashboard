@@ -61,6 +61,6 @@ Transaction distribution across channels is relatively balanced, with a slight p
 # Recommendations
 1. Improve System Performance During Peak Periods
 January shows high volume but also a larger gap in successful transactions.
-Increase server capacity, load balancing, and monitoring during peak months.
+2. Increase server capacity, load balancing, and monitoring during peak months.
 Example: Auto-scale infrastructure during high-demand periods to reduce failures.
 
