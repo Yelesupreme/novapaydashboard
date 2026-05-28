@@ -19,10 +19,10 @@ Deliverables Expected Executive summary, detailed EDA, visualizations with clear
 
 # Insights
 Key KPIs
-Transaction Volume: 2 Billion
-Transaction Value: 10,000
-Success Rate: 92.06%
-Failure Rate: 7.94%
+- Transaction Volume: 2 Billion
+- Transaction Value: 10,000
+- Success Rate: 92.06%
+- Failure Rate: 7.94%
 
 1. Transaction Volume Trends
 January recorded the highest transaction volume (441.7M), which is 15.98% higher than June (380.8M), the lowest month.
